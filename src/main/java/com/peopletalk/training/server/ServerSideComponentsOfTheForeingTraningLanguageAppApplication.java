@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ServerSideComponentsOfTheForeingTraningLanguageAppApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Hellow world!");
 		SpringApplication.run(ServerSideComponentsOfTheForeingTraningLanguageAppApplication.class, args);
 	}
 
